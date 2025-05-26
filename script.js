@@ -22,28 +22,34 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/stay.png',
-        name : 'Amazing Day',
-        artist : 'Coldplay',
-        music : 'music/stay.mp3'
+        img : 'img/colors.png',
+        name : 'Colors Flying High',
+        artist : 'Lyn',
+        music : 'music/colors.mp3'
     },
     {
-        img : 'images/fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        img : 'img/todomenoichigeki.jpg',
+        name : 'Todome no Ichigeki',
+        artist : 'Vaundy, Cory Wong',
+        music : 'music/todomenoichigeki.mp3'
     },
     {
-        img : 'images/faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
+        img : 'img/usofwhatever.jpg',
+        name : 'United States of Whatever',
+        artist : 'Liam Lynch',
+        music : 'music/usofwhatever.mp3'
     },
     {
-        img : 'images/ratherbe.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
-        music : 'music/Rather Be.mp3'
+        img : 'img/thebrave.jpg',
+        name : 'The Brave',
+        artist : 'Yoasobi',
+        music : 'music/thebrave.mp3'
+    },
+    {
+        img : 'img/neverendingsummer.jpeg',
+        name : 'Futari no Natsu Monogatari Never Ending Summer',
+        artist : 'S. Kiyotaka & Omega Tribe',
+        music : 'music/neverendingsummer.mp3'
     }
 ];
 
